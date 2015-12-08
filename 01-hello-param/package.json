@@ -1,0 +1,14 @@
+{
+  "name": "01-hello-param",
+  "version": "1.0.0",
+  "description": "For this exercise, you'll greet a person (or thing) using a parameter.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Harlem",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.13.3"
+  }
+}
