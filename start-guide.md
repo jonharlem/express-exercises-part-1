@@ -17,7 +17,7 @@ npm init
 npm install express --save
 ```
 
-4. Create a file named app.js
+4. Create a file named server.js
 
 ```bash
 touch server.js
